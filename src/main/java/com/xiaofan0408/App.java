@@ -1,5 +1,7 @@
 package com.xiaofan0408;
 
+import com.xiaofan0408.common.Function;
+
 /**
  * Hello world!
  *
